@@ -1,7 +1,8 @@
-# <h1 align="center" color="red">Cici的个人简介</h1>
-
-<mark><strong><big><em><font face="courier New" color=#1E90FF>这是高亮加粗大一号斜体的道奇蓝色courier New字体<big></font><strong></mark>
-Hi 👋, I'm YUXI.
-
-
-
+# <h1 align="center" color="red">Cici的主页</h1>
+## 个人简介
+  大家好 👋，我是余希.
+  2021级数据科学与大数据专业的学生
+  平常喜欢打辩论、看电视剧🌱 
+## 未来展望
+未来希望可以认识很多新朋友
+多参加大数据方面比赛
